@@ -1,0 +1,7 @@
+wordpress-rds-key.pem
+.terraform/
+*.tfstate
+*.tfstate.backup
+.crash
+*.log
+*.tfvars
