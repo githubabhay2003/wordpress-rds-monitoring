@@ -1,7 +1,13 @@
-wordpress-rds-key.pem
+# Terraform
 .terraform/
-*.tfstate
-*.tfstate.backup
-.crash
-*.log
-*.tfvars
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+
+# Sensitive files
+terraform.tfvars
+*.pem
+
+# System
+.DS_Store
