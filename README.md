@@ -177,7 +177,10 @@ https://opensource.org/licenses/MIT
 
 ## 🎥 Demo Video
 
-👉 *(Placeholder — final demo will be added later)*  
+
+https://github.com/user-attachments/assets/d879b8f7-69a6-44ff-8bc6-2bf076ff51e4
+
+
 
 
 
